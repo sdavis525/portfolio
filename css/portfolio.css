@@ -48,7 +48,34 @@ header h1 {
 section {
     padding: 60px;
 }
+/*About me style*/
+.info {
+    text-align: center;
+}
+.info h2 {
+    color: beige;
+}
+.info p {
+    line-height: 1.9;
+    color: red;
+    width: 80%;
+    font-size: medium;
+    margin: 0 auto;
+}
+/*end of About me style*/
+
 /*footer starts here*/
+footer{
+    background-color: red;
+    width: 100%;
+    padding: 40px 35px;
+}
+footer h2 {
+    display: inline-block;
+    color: beige;
+    font-size: 30px;
+    margin: 0;
+}
 footer a {
     color: beige;
     text-decoration: none;
@@ -67,12 +94,3 @@ footer nav ul li a {
     font-size: 22px;
 }
 
-footer div {
-    float: inline-end;
-    line-height: 1.5;
-    text-align: center;
-}
-
-section {
-    padding: 60px;
-}
