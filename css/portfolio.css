@@ -48,3 +48,31 @@ header h1 {
 section {
     padding: 60px;
 }
+/*footer starts here*/
+footer a {
+    color: beige;
+    text-decoration: none;
+    color: beige;
+}
+footer nav {
+    float: right;
+    margin: 7px 0;
+  }
+  footer nav ul li {
+    display: inline;
+}
+footer nav ul li a {
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 22px;
+}
+
+footer div {
+    float: inline-end;
+    line-height: 1.5;
+    text-align: center;
+}
+
+section {
+    padding: 60px;
+}
