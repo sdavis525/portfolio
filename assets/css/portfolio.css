@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    /* more on this crazy alphanumerical value in a minute! */
+    color: red;
+    font-family: Helvetica, Arial, sans-serif;
+}
+/* apply styles to <header> */
+header {
+    padding: 20px 35px;
+    background-color: red;
+}
+header h1 {
+    font-weight: bold;
+    font-size: 36px;
+    color: beige;
+    margin: 0;
+}
+  
+header a {
+    color: beige;
+    text-decoration: none;
+    color: beige;
+}
+header nav {
+    float: right;
+    margin: 7px 0;
+  }
+header nav ul li {
+    display: inline;
+}
+header nav ul li a {
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 22px;
+}
+header h1 {
+    font-weight: bold;
+    font-size: 36px;
+    color: beige;
+    margin: 0;
+    display: inline;
+}
+
+section {
+    padding: 60px;
+}
