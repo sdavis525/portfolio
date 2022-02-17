@@ -72,7 +72,7 @@ section {
 }
 
 .run-buddy {
-background-image: url("../images/unnamed.jpg");
+background-image: url("../images/run\ buddy.png");
 min-height: 150px;
 background-repeat: no-repeat;
 height: 300px;
@@ -86,12 +86,13 @@ width: 300px;
     height: 300px;
     background-size: cover;
     width: 300px;
+    background-image: url("../images/horiseon.png");
 
 
 }
 
 .description {
-    background-color: white;
+    background-color: beige;
 }
 
 .description h3 {
