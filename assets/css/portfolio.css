@@ -64,6 +64,46 @@ section {
 }
 /*end of About me style*/
 
+
+/*portfolio section styles*/
+
+.flex-container{
+    display: flex;
+}
+
+.run-buddy {
+background-image: url("../images/unnamed.jpg");
+min-height: 150px;
+background-repeat: no-repeat;
+height: 300px;
+background-size: cover;
+width: 300px;
+}
+
+.MarketingGEM {
+    min-height: 150px;
+    background-repeat: no-repeat;
+    height: 300px;
+    background-size: cover;
+    width: 300px;
+
+
+}
+
+.description {
+    background-color: white;
+}
+
+.description h3 {
+    font-size: 32px;
+    
+}
+
+.description p { font-size: medium;
+    }
+
+
+
 /*footer starts here*/
 footer{
     background-color: red;
