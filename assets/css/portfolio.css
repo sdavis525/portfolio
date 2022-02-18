@@ -12,7 +12,6 @@
 header {
     padding: 20px 35px;
     background-color: red;
-   display: flex;
     
 }
 header h1 {
@@ -20,12 +19,13 @@ header h1 {
     font-size: 3vw;
     color: red;
     margin: 0;
+    display: inline;
 }
   
 header a {
     color: beige;
     text-decoration: none;
-    color: beige;
+   
 }
 header nav {
     float: right;
@@ -56,7 +56,7 @@ section {
     text-align: center;
 }
 .info h2 {
-    color: beige;
+    color: red;
 }
 .info p {
     line-height: 1.9;
@@ -69,6 +69,20 @@ section {
 
 
 /*portfolio section styles*/
+
+.section-title {
+    font-size: 55px;
+       color: red;
+       display:inline-block;
+       border-bottom: 3px solid;
+       padding-bottom: 20px;
+       text-align: center;
+       margin: 0 auto 35px auto;
+       width: 50%;
+  
+      
+   }
+
 
 .flex-container{
     display: flex;
@@ -83,15 +97,17 @@ section {
 background-image: url("../images/run\ buddy.png");
 min-height: 150px;
 background-repeat: no-repeat;
-height: 300px;
+height: 305px;
 background-size: cover;
+padding-top: 10px;
+
 
 }
 
 .MarketingGEM {
     min-height: 150px;
     background-repeat: no-repeat;
-    height: 300px;
+    height: 305px;
     background-size: cover;
     background-image: url("../images/horiseon.png");
     padding-top: 10px;
@@ -101,9 +117,9 @@ background-size: cover;
 }
 
 .work {
+    display: flex;
     justify-content: center;
     flex-direction: column;
-    display: flex;
     margin-bottom: 10px;
 
 }
@@ -117,19 +133,10 @@ background-size: cover;
     
 }
 
-.description p { font-size: medium;
+.description p { font-size: 2vw;
     }
 
-.section-title {
-     font-size: 55px;
-        color: red;
-        border-bottom: 3px solid;
-        padding-bottom: 20px;
-        text-align: center;
-        margin: 0 auto 35px auto;
-        width: 50%;
-        justify-content: center;
-    }
+
       
 
 
@@ -140,7 +147,7 @@ footer{
     padding: 40px 35px;
 }
 footer h2 {
-    display: inline-block;
+    display: inline;
     color: beige;
     font-size: 2vw;
     margin: 0;
@@ -148,7 +155,7 @@ footer h2 {
 footer a {
     color: beige;
     text-decoration: none;
-    color: beige;
+  
 }
 footer nav {
     float: right;
