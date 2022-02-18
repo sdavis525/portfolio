@@ -1,4 +1,4 @@
-# portfolio
+# portfolio: created a professional portfolio for future employers and clients to view my work and contact information
 
 sophia davis portfolio
 
@@ -16,6 +16,7 @@ added resume link
 
 added about me section
 
+
 attached html and css <img width="1512" alt="Screen Shot 2022-02-16 at 8 19 37 PM" src="https://user-images.githubusercontent.com/98237529/154603199-1d372754-d577-4386-8f9f-1a0e346b8b26.png">
 <img width="1512" alt="Screen Shot 2022-02-16 at 1 49 34 PM" src="https://user-images.githubusercontent.com/98237529/154603211-1227000a-dfbc-4ec9-b127-45996e356d3f.png">
 <img width="1512" alt="Screen Shot 2022-02-16 at 8 19 44 PM" src="https://user-images.githubusercontent.com/98237529/154603219-49e69a74-6ca9-4b01-8bff-193a8ce677f3.png">
@@ -25,3 +26,4 @@ attached html and css <img width="1512" alt="Screen Shot 2022-02-16 at 8 19 37 P
 <img width="1512" alt="Screen Shot 2022-02-17 at 8 50 06 PM" src="https://user-images.githubusercontent.com/98237529/154603272-01fd409b-9a93-467c-b31d-6e03cd2b83ba.png">
 
 <img width="1512" alt="Screen Shot 2022-02-17 at 8 50 00 PM" src="https://user-images.githubusercontent.com/98237529/154603283-f7a1b004-bae1-46f2-a7c2-ac966a2c4ca9.png">
+deployed link:  https://sdavis525.github.io/portfolio/
